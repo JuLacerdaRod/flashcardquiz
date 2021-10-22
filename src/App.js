@@ -80,7 +80,6 @@ const SAMPLE_CARDS = [
       "// This is an HTML comment",
       " /* This is an HTML comment */",
       "<!-- This is an HTML comment -->",
-      "",
     ],
   },
   {
