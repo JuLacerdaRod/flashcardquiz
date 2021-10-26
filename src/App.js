@@ -28,7 +28,7 @@ const SAMPLE_CARDS = [
   },
   {
     id: 3,
-    question: "Where we can use the <style> tag?",
+    question: "Where can we use the <style> tag?",
     answer: "In the <head> and <body> elements",
     options: [
       "In the <head> element",
@@ -62,7 +62,7 @@ const SAMPLE_CARDS = [
   },
   {
     id: 8,
-    question: "How you can open a link in a new window?",
+    question: "How can you open a link in a new window?",
     answer: 'target="_blank"',
     options: ['target="_new"', 'target="_window"', 'target="_blank"'],
   },
@@ -135,7 +135,7 @@ const SAMPLE_CARDS = [
   },
   {
     id: 18,
-    question: "How you can open the link in a new window?",
+    question: "How can you open the link in a new window?",
     answer: 'target="_blank"',
     options: ['target="_new"', 'target="_window"', ' target="_blank"'],
   },
